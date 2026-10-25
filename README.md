@@ -27,7 +27,6 @@ multistep_reasoning_agent/
 ├── prompts.py
 ├── requirements.txt
 ├── README.md
-├── example_run_logs.md
 └── tests/
     └── test_agent.py
 ```
@@ -37,11 +36,9 @@ multistep_reasoning_agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/DEEPIKA-R-K/Multi-step-reasoning-agent.git
 cd multistep_reasoning_agent
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your GitHub repository URL.
 
 ### 2. Create a Virtual Environment
 
